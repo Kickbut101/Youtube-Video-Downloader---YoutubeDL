@@ -1,0 +1,27 @@
+<opml version="1.1">
+<body>
+<outline title="Michael Reeves" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtHaxi4GTYDpJgMSGy7AeSw" channelIDOverride="UCtHaxi4GTYDpJgMSGy7AeSw"/>
+<outline title="Nerdforge" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCggHsHce2n3vvbJf_8YKrMA" channelIDOverride="UCggHsHce2n3vvbJf_8YKrMA"/>
+<outline title="Linus Tech Tips" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw" filter=".*WAN Show.*|shorts" channelIDOverride="UCXuqSBlHAE6Xw-yeJA0Tunw"/>
+<outline title="videogamedunkey" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsvn_Po0SmunchJYOWpOxMg" channelIDOverride="UCsvn_Po0SmunchJYOWpOxMg"/>
+<outline title="ElectroBOOM" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJ0-OtVpF0wOKEqT2Z1HEtA" channelIDOverride="UCJ0-OtVpF0wOKEqT2Z1HEtA"/>
+<outline title="Mark Rober" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCY1kMZp36IQSyNx_9h4mpCg" channelIDOverride="UCY1kMZp36IQSyNx_9h4mpCg"/>
+<outline title="Ars Technica" xmlURL="https://www.youtube.com/feeds/videos.xml?channel_id=UCCDU1fsmgvWljcW2aodfJsA" channelIDOverride="UCCDU1fsmgvWljcW2aodfJsA"/>
+<outline title="Gourmet Makes" xmlURL="https://www.youtube.com/feeds/videos.xml?playlist_id=PLKtIunYVkv_RwB_yx1SZrZC-ddhxyXanh" channelIDOverride="UCCDU1fsmgvWljcW2aodfJsA"/>
+<outline title="RCLifeOn" xmlURL="https://www.youtube.com/feeds/videos.xml?channel_id=UC873OURVczg_utAk8dXx_Uw" channelIDOverride="UC873OURVczg_utAk8dXx_Uw" agescopeoverride="60"/>
+<outline title="PeterSripol" xmlurl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7yF9tV4xWEMZkel7q8La_w" channelIDOverride="UC7yF9tV4xWEMZkel7q8La_w" agescopeoverride="60"/>
+<outline title="I Like To Make Stuff" xmlurl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6x7GwJxuoABSosgVXDYtTw" channelIDOverride="UC6x7GwJxuoABSosgVXDYtTw" agescopeoverride="60"/>
+<outline title="The American WoodShop Season 28 Playlist" xmlURL="https://www.youtube.com/feeds/videos.xml?playlist_id=PLIa_d3N5uqaJXZHA3jRF5FICMcBR9AQwV" directoryOverride="\\192.168.1.26\Seagate_Wolf_14TB\TV_Shows\American Woodshop (2019)\Season 28" nameOverrideRegex="(?&lt;before&gt;^.+?)(?&lt;season&gt;\d{2})(?&lt;episodenumber&gt;\d{2})(?&lt;after&gt;.*)" nameOverrideRegexReplace="${before}S${season}E${episodenumber}${after}" agescopeoverride="90"/>
+<outline title="KamuiCosplay" xmlurl="https://www.youtube.com/feeds/videos.xml?channel_id=UC79qFuymkVas5dCScbLF9fw" filter="shorts" channelIDOverride="UC79qFuymkVas5dCScbLF9fw" agescopeoverride="60"/>
+<outline title="Stuff Made Here" xmlurl="https://www.youtube.com/feeds/videos.xml?channel_id=UCj1VqrHhDte54oLgPG4xpuQ" channelIDOverride="UCj1VqrHhDte54oLgPG4xpuQ" agescopeoverride="100"/>
+<outline title="Integza" xmlurl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2avWDLN1EI3r1RZ_dlSxCw" channelIDOverride="UC2avWDLN1EI3r1RZ_dlSxCw" />
+<outline title="William Osman" xmlurl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfMJ2MchTSW2kWaT0kK94Yw" channelIDOverride="UCfMJ2MchTSW2kWaT0kK94Yw" agescopeoverride="720"/>
+<outline title="Adam Savages Tested" xmlurl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiDJtJKMICpb9B1qf7qjEOA" channelIDOverride="UCiDJtJKMICpb9B1qf7qjEOA"/>
+<outline title="Smarter Every Day" xmlurl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6107grRI4m0o2-emgoDnAA" channelIDOverride="UC6107grRI4m0o2-emgoDnAA" agescopeoverride="60"/>
+<outline title="Tom Stanton" xmlurl="https://www.youtube.com/feeds/videos.xml?channel_id=UC67gfx2Fg7K2NSHqoENVgwA" channelIDOverride="UC67gfx2Fg7K2NSHqoENVgwA" agescopeoverride="60"/>
+<outline title="Simon Giertz" xmlurl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3KEoMzNz8eYnwBC34RaKCQ" channelIDOverride="UC3KEoMzNz8eYnwBC34RaKCQ" agescopeoverride="60"/>
+<outline title="Technology Connections" xmlurl="https://www.youtube.com/feeds/videos.xml?channel_id=UCy0tKL1T7wFoYcxCe0xjN6Q" channelIDOverride="UCy0tKL1T7wFoYcxCe0xjN6Q" agescopeoverride="60"/>
+<outline title="DIY Perks" xmlurl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUQo7nzH1sXVpzL92VesANw" channelIDOverride="UCUQo7nzH1sXVpzL92VesANw" agescopeoverride="120"/>
+<outline title="Jonathan Katz-Moses" xmlurl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXBNF-A7QlYT3tT-B9N4ElA" channelIDOverride="UCXBNF-A7QlYT3tT-B9N4ElA" agescopeoverride="120"/>
+</body>
+</opml>
